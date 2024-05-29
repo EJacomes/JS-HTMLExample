@@ -1,0 +1,11 @@
+body {
+    background-color: blue;
+}
+
+.NoticeColor {
+    color:red;
+    opacity: 0.6;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
